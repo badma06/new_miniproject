@@ -69,5 +69,5 @@ void loop() {
         Serial.println("Failed to read temperature.");
     }
 
-    delay(20000); // Upload data every 20 seconds (minimum interval for ThingSpeak)
+    delay(15000); // Upload data every 20 seconds (minimum interval for ThingSpeak)
 }
