@@ -92,5 +92,5 @@ void loop() {
     Serial.println("Failed to read temperature.");
   }
 
-  delay(30000); // Wait 30 seconds between updates (ThingSpeak free account limit)
+  delay(15000); // Wait 30 seconds between updates (ThingSpeak free account limit)
 }
