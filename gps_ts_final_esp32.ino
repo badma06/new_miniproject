@@ -8,8 +8,8 @@ const char* password = "8122322893";
 const char* apiKey = "TNYN9KE7RNRIKPHA";
 
 // Define GPS UART pins — choose free GPIOs (safe for UART2)
-#define GPS_RX 16  // Connect GPS TX to this pin
-#define GPS_TX 17  // Not used unless sending data to GPS
+#define GPS_RX 16  // GPS TX -> ESP32 16
+#define GPS_TX 17  // GPS RX -> ESP32 17
 
 TinyGPSPlus gps;
 HardwareSerial gpsSerial(2);  // Use UART2 (Serial2 on ESP32)
