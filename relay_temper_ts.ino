@@ -14,8 +14,8 @@ const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
 // ThingSpeak settings
-unsigned long channelID = 2876792;
-const char* apiKey = "YOUR_API_KEY";
+unsigned long channelID = 22880817;
+const char* apiKey = " UDVBO3GMCLSWNR6Q";
 
 WiFiClient client;
 
