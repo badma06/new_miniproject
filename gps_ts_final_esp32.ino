@@ -5,7 +5,7 @@
 // Replace with your actual credentials and ThingSpeak API key
 const char* ssid = "Badma'";
 const char* password = "8122322893";
-const char* apiKey = "TNYN9KE7RNRIKPHA";
+const char* apiKey = " UDVBO3GMCLSWNR6Q";
 
 // Define GPS UART pins — choose free GPIOs (safe for UART2)
 #define GPS_RX 16  // GPS TX -> ESP32 16
