@@ -10,8 +10,8 @@ const char* ssid = "Badma'";
 const char* password = "8122322893";
 
 // ThingSpeak settings
-unsigned long channelID = 2876792; // Replace with your channel ID
-const char* apiKey = "JOS5L83U0Y3N8SZC"; // Replace with your ThingSpeak Write API key
+unsigned long channelID = 22880817; // Replace with your channel ID
+const char* apiKey = " UDVBO3GMCLSWNR6Q"; // Replace with your ThingSpeak Write API key
 
 WiFiClient client;
 
