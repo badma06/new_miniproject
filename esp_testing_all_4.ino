@@ -15,8 +15,8 @@ const float LOW_TEMP_THRESHOLD = 30.0;
 const char* ssid = "Badma'";
 const char* password = "8122322893";
 
-unsigned long channelID =  2915696;
-const char* apiKey = "HPSZ2EZFN8981845";  // ThingSpeak Write API Key
+unsigned long channelID = 22880817;
+const char* apiKey = "UDVBO3GMCLSWNR6Q";  // ThingSpeak Write API Key
 
 // ---------- Objects ----------
 TinyGPSPlus gps;
